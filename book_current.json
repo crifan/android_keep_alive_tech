@@ -1,0 +1,19 @@
+{
+  "title": "安卓保活技术",
+  "description": "整理安卓保活技术相关基础知识，常见的安卓保护技术方案，以及相关代码和实例。",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "android_keep_alive_tech"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.org/books/android_keep_alive_tech/website/"
+    },
+    "toolbar-button": {
+      "url": "https://book.crifan.org/books/android_keep_alive_tech/pdf/android_keep_alive_tech.pdf"
+    }
+  }
+}
